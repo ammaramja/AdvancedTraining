@@ -1,0 +1,6 @@
+c:\users\amjawala_am\documents\visual studio 2015\Projects\Stars\Stars\bin\Debug\Stars.exe.config
+c:\users\amjawala_am\documents\visual studio 2015\Projects\Stars\Stars\bin\Debug\Stars.exe
+c:\users\amjawala_am\documents\visual studio 2015\Projects\Stars\Stars\bin\Debug\Stars.pdb
+c:\users\amjawala_am\documents\visual studio 2015\Projects\Stars\Stars\obj\Debug\Stars.csprojResolveAssemblyReference.cache
+c:\users\amjawala_am\documents\visual studio 2015\Projects\Stars\Stars\obj\Debug\Stars.exe
+c:\users\amjawala_am\documents\visual studio 2015\Projects\Stars\Stars\obj\Debug\Stars.pdb

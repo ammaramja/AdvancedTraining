@@ -1,0 +1,6 @@
+c:\users\amjawala_am\documents\visual studio 2015\Projects\18_august_solutions\18_august_solutions\bin\Debug\18_august_solutions.exe.config
+c:\users\amjawala_am\documents\visual studio 2015\Projects\18_august_solutions\18_august_solutions\obj\Debug\18_august_solutions.csprojResolveAssemblyReference.cache
+c:\users\amjawala_am\documents\visual studio 2015\Projects\18_august_solutions\18_august_solutions\bin\Debug\18_august_solutions.exe
+c:\users\amjawala_am\documents\visual studio 2015\Projects\18_august_solutions\18_august_solutions\bin\Debug\18_august_solutions.pdb
+c:\users\amjawala_am\documents\visual studio 2015\Projects\18_august_solutions\18_august_solutions\obj\Debug\18_august_solutions.exe
+c:\users\amjawala_am\documents\visual studio 2015\Projects\18_august_solutions\18_august_solutions\obj\Debug\18_august_solutions.pdb

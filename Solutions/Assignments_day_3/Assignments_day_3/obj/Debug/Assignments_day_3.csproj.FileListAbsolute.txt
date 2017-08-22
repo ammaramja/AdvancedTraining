@@ -1,0 +1,6 @@
+c:\users\amjawala_am\documents\visual studio 2015\Projects\Assignments_day_3\Assignments_day_3\bin\Debug\Assignments_day_3.exe.config
+c:\users\amjawala_am\documents\visual studio 2015\Projects\Assignments_day_3\Assignments_day_3\obj\Debug\Assignments_day_3.csprojResolveAssemblyReference.cache
+c:\users\amjawala_am\documents\visual studio 2015\Projects\Assignments_day_3\Assignments_day_3\bin\Debug\Assignments_day_3.exe
+c:\users\amjawala_am\documents\visual studio 2015\Projects\Assignments_day_3\Assignments_day_3\bin\Debug\Assignments_day_3.pdb
+c:\users\amjawala_am\documents\visual studio 2015\Projects\Assignments_day_3\Assignments_day_3\obj\Debug\Assignments_day_3.exe
+c:\users\amjawala_am\documents\visual studio 2015\Projects\Assignments_day_3\Assignments_day_3\obj\Debug\Assignments_day_3.pdb

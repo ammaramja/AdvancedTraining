@@ -1,0 +1,6 @@
+c:\users\amjawala_am\documents\visual studio 2015\Projects\firstCorporate\firstCorporate\bin\Debug\firstCorporate.exe.config
+c:\users\amjawala_am\documents\visual studio 2015\Projects\firstCorporate\firstCorporate\bin\Debug\firstCorporate.exe
+c:\users\amjawala_am\documents\visual studio 2015\Projects\firstCorporate\firstCorporate\bin\Debug\firstCorporate.pdb
+c:\users\amjawala_am\documents\visual studio 2015\Projects\firstCorporate\firstCorporate\obj\Debug\firstCorporate.csprojResolveAssemblyReference.cache
+c:\users\amjawala_am\documents\visual studio 2015\Projects\firstCorporate\firstCorporate\obj\Debug\firstCorporate.exe
+c:\users\amjawala_am\documents\visual studio 2015\Projects\firstCorporate\firstCorporate\obj\Debug\firstCorporate.pdb

@@ -1,0 +1,8 @@
+c:\users\amjawala_am\documents\visual studio 2015\Projects\22_august\22_august\bin\Debug\22_august.exe.config
+c:\users\amjawala_am\documents\visual studio 2015\Projects\22_august\22_august\obj\Debug\22_august.csprojResolveAssemblyReference.cache
+c:\users\amjawala_am\documents\visual studio 2015\Projects\22_august\22_august\bin\Debug\22_august.exe
+c:\users\amjawala_am\documents\visual studio 2015\Projects\22_august\22_august\bin\Debug\22_august.pdb
+c:\users\amjawala_am\documents\visual studio 2015\Projects\22_august\22_august\obj\Debug\22_august.exe
+c:\users\amjawala_am\documents\visual studio 2015\Projects\22_august\22_august\obj\Debug\22_august.pdb
+C:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\22_august\22_august\bin\Debug\MathLib.dll
+C:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\22_august\22_august\bin\Debug\MathLib.pdb
