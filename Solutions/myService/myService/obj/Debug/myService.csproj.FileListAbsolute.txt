@@ -1,0 +1,14 @@
+c:\users\amjawala_am\documents\visual studio 2015\Projects\myService\myService\bin\Debug\myService.exe.config
+c:\users\amjawala_am\documents\visual studio 2015\Projects\myService\myService\bin\Debug\myService.exe
+c:\users\amjawala_am\documents\visual studio 2015\Projects\myService\myService\bin\Debug\myService.pdb
+c:\users\amjawala_am\documents\visual studio 2015\Projects\myService\myService\obj\Debug\myService.ProjectInstaller.resources
+c:\users\amjawala_am\documents\visual studio 2015\Projects\myService\myService\obj\Debug\myService.myService.resources
+c:\users\amjawala_am\documents\visual studio 2015\Projects\myService\myService\obj\Debug\myService.csproj.GenerateResource.Cache
+c:\users\amjawala_am\documents\visual studio 2015\Projects\myService\myService\obj\Debug\myService.exe
+c:\users\amjawala_am\documents\visual studio 2015\Projects\myService\myService\obj\Debug\myService.pdb
+c:\users\amjawala_am\documents\visual studio 2015\Projects\myService\myService\obj\Debug\myService.csprojResolveAssemblyReference.cache
+c:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\myService\myService\obj\Debug\myService.TrustInfo.xml
+c:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\myService\myService\bin\Debug\myService.exe.manifest
+c:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\myService\myService\bin\Debug\myService.application
+c:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\myService\myService\obj\Debug\myService.exe.manifest
+c:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\myService\myService\obj\Debug\myService.application

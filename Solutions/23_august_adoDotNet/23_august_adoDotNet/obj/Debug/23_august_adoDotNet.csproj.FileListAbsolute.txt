@@ -1,0 +1,6 @@
+c:\users\amjawala_am\documents\visual studio 2015\Projects\23_august_adoDotNet\23_august_adoDotNet\bin\Debug\23_august_adoDotNet.exe.config
+c:\users\amjawala_am\documents\visual studio 2015\Projects\23_august_adoDotNet\23_august_adoDotNet\bin\Debug\23_august_adoDotNet.exe
+c:\users\amjawala_am\documents\visual studio 2015\Projects\23_august_adoDotNet\23_august_adoDotNet\bin\Debug\23_august_adoDotNet.pdb
+c:\users\amjawala_am\documents\visual studio 2015\Projects\23_august_adoDotNet\23_august_adoDotNet\obj\Debug\23_august_adoDotNet.csprojResolveAssemblyReference.cache
+c:\users\amjawala_am\documents\visual studio 2015\Projects\23_august_adoDotNet\23_august_adoDotNet\obj\Debug\23_august_adoDotNet.exe
+c:\users\amjawala_am\documents\visual studio 2015\Projects\23_august_adoDotNet\23_august_adoDotNet\obj\Debug\23_august_adoDotNet.pdb
