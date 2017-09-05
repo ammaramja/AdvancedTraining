@@ -1,0 +1,14 @@
+C:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\CodeFirstLibrary\CodeFirstLibrary\bin\Debug\CodeFirstLibrary.dll.config
+C:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\CodeFirstLibrary\CodeFirstLibrary\bin\Debug\CodeFirstLibrary.dll
+C:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\CodeFirstLibrary\CodeFirstLibrary\bin\Debug\CodeFirstLibrary.pdb
+C:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\CodeFirstLibrary\CodeFirstLibrary\bin\Debug\EntityFramework.dll
+C:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\CodeFirstLibrary\CodeFirstLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\CodeFirstLibrary\CodeFirstLibrary\bin\Debug\EntityFramework.xml
+C:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\CodeFirstLibrary\CodeFirstLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\CodeFirstLibrary\CodeFirstLibrary\obj\Debug\CodeFirstLibrary.csprojResolveAssemblyReference.cache
+C:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\CodeFirstLibrary\CodeFirstLibrary\obj\Debug\CodeFirstLibrary.dll
+C:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\CodeFirstLibrary\CodeFirstLibrary\obj\Debug\CodeFirstLibrary.pdb
+C:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\CodeFirstLibrary\CodeFirstLibrary\obj\Debug\CodeFirstLibrary.Migrations.InitialCreate.resources
+C:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\CodeFirstLibrary\CodeFirstLibrary\obj\Debug\CodeFirstLibrary.csproj.GenerateResource.Cache
+C:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\CodeFirstLibrary\CodeFirstLibrary\obj\Debug\CodeFirstLibrary.Migrations.addUrl.resources
+C:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\CodeFirstLibrary\CodeFirstLibrary\obj\Debug\CodeFirstLibrary.Migrations.AddDepartment.resources

@@ -1,0 +1,9 @@
+c:\users\amjawala_am\documents\visual studio 2015\Projects\myCart\myCart\bin\Debug\myCart.exe.config
+c:\users\amjawala_am\documents\visual studio 2015\Projects\myCart\myCart\bin\Debug\myCart.exe
+c:\users\amjawala_am\documents\visual studio 2015\Projects\myCart\myCart\bin\Debug\myCart.pdb
+c:\users\amjawala_am\documents\visual studio 2015\Projects\myCart\myCart\obj\Debug\myCart.csprojResolveAssemblyReference.cache
+c:\users\amjawala_am\documents\visual studio 2015\Projects\myCart\myCart\obj\Debug\myCart.Properties.Resources.resources
+c:\users\amjawala_am\documents\visual studio 2015\Projects\myCart\myCart\obj\Debug\myCart.csproj.GenerateResource.Cache
+c:\users\amjawala_am\documents\visual studio 2015\Projects\myCart\myCart\obj\Debug\myCart.exe
+c:\users\amjawala_am\documents\visual studio 2015\Projects\myCart\myCart\obj\Debug\myCart.pdb
+c:\users\amjawala_am\documents\visual studio 2015\Projects\myCart\myCart\obj\Debug\myCart.myGoogle.resources

@@ -1,0 +1,54 @@
+﻿@model ValidationsNauthenNauthoNdatabase.Models.LoginSubmit
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<hr />
+<br />
+
+@using (Html.BeginForm("SubmitLogin", "home", FormMethod.Post))
+{
+    <table>
+        <tr>
+            <td>Enter Username:</td>
+            <td>
+                @Html.TextBoxFor(i => i.userName)
+            </td>
+            <td>
+                @Html.ValidationMessageFor(i => i.userName)
+            </td>
+        </tr>
+        <tr>
+            <td>Enter Password:</td>
+            <td>
+                @Html.PasswordFor(i=>i.password)
+            </td>
+            <td>
+                @Html.ValidationMessageFor(i => i.password)
+            </td>
+        </tr>
+        <tr>            
+            <td colspan="2" class="text-center">
+                <input class="btn btn-primary" id="Submit1" type="submit" value="Submit" />
+            </td>
+        </tr>
+
+    </table>
+
+    @*<div>    
+        <label>Enter Username</label>
+        @Html.TextBoxFor(i => i.userName)
+    </div>
+    <div>
+        @Html.ValidationMessageFor(i => i.userName)
+    </div>
+        
+    <div>
+        <label>Enter Password</label>
+        <input id="Password1" name="password" type="password" placeholder="Password!"/>
+        
+    </div>
+    <br />
+
+        <input class="btn-primary" id="Submit1" type="submit" value="Submit" />*@
+
+}

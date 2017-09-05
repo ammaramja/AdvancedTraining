@@ -1,0 +1,9 @@
+c:\users\amjawala_am\documents\visual studio 2015\Projects\RoleBasedSecurity\RoleBasedSecurity\bin\Debug\RoleBasedSecurity.exe.config
+c:\users\amjawala_am\documents\visual studio 2015\Projects\RoleBasedSecurity\RoleBasedSecurity\bin\Debug\RoleBasedSecurity.exe
+c:\users\amjawala_am\documents\visual studio 2015\Projects\RoleBasedSecurity\RoleBasedSecurity\bin\Debug\RoleBasedSecurity.pdb
+c:\users\amjawala_am\documents\visual studio 2015\Projects\RoleBasedSecurity\RoleBasedSecurity\obj\Debug\RoleBasedSecurity.csprojResolveAssemblyReference.cache
+c:\users\amjawala_am\documents\visual studio 2015\Projects\RoleBasedSecurity\RoleBasedSecurity\obj\Debug\RoleBasedSecurity.Form1.resources
+c:\users\amjawala_am\documents\visual studio 2015\Projects\RoleBasedSecurity\RoleBasedSecurity\obj\Debug\RoleBasedSecurity.Properties.Resources.resources
+c:\users\amjawala_am\documents\visual studio 2015\Projects\RoleBasedSecurity\RoleBasedSecurity\obj\Debug\RoleBasedSecurity.csproj.GenerateResource.Cache
+c:\users\amjawala_am\documents\visual studio 2015\Projects\RoleBasedSecurity\RoleBasedSecurity\obj\Debug\RoleBasedSecurity.exe
+c:\users\amjawala_am\documents\visual studio 2015\Projects\RoleBasedSecurity\RoleBasedSecurity\obj\Debug\RoleBasedSecurity.pdb

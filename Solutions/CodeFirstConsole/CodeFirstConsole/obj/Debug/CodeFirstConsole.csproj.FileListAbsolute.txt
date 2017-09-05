@@ -1,0 +1,12 @@
+c:\users\amjawala_am\documents\visual studio 2015\Projects\CodeFirstConsole\CodeFirstConsole\bin\Debug\CodeFirstConsole.exe.config
+C:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\CodeFirstConsole\CodeFirstConsole\bin\Debug\CodeFirstConsole.exe
+C:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\CodeFirstConsole\CodeFirstConsole\bin\Debug\CodeFirstConsole.pdb
+C:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\CodeFirstConsole\CodeFirstConsole\bin\Debug\CodeFirstLibrary.dll
+C:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\CodeFirstConsole\CodeFirstConsole\bin\Debug\EntityFramework.dll
+C:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\CodeFirstConsole\CodeFirstConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\CodeFirstConsole\CodeFirstConsole\bin\Debug\CodeFirstLibrary.pdb
+C:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\CodeFirstConsole\CodeFirstConsole\bin\Debug\EntityFramework.xml
+C:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\CodeFirstConsole\CodeFirstConsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\CodeFirstConsole\CodeFirstConsole\obj\Debug\CodeFirstConsole.csprojResolveAssemblyReference.cache
+C:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\CodeFirstConsole\CodeFirstConsole\obj\Debug\CodeFirstConsole.exe
+C:\Users\amjawala_am\Documents\Visual Studio 2015\Projects\CodeFirstConsole\CodeFirstConsole\obj\Debug\CodeFirstConsole.pdb

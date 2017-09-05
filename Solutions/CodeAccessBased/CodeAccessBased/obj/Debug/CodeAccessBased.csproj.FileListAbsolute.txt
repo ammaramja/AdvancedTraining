@@ -1,0 +1,9 @@
+c:\users\amjawala_am\documents\visual studio 2015\Projects\CodeAccessBased\CodeAccessBased\bin\Debug\CodeAccessBased.exe.config
+c:\users\amjawala_am\documents\visual studio 2015\Projects\CodeAccessBased\CodeAccessBased\bin\Debug\CodeAccessBased.exe
+c:\users\amjawala_am\documents\visual studio 2015\Projects\CodeAccessBased\CodeAccessBased\bin\Debug\CodeAccessBased.pdb
+c:\users\amjawala_am\documents\visual studio 2015\Projects\CodeAccessBased\CodeAccessBased\obj\Debug\CodeAccessBased.csprojResolveAssemblyReference.cache
+c:\users\amjawala_am\documents\visual studio 2015\Projects\CodeAccessBased\CodeAccessBased\obj\Debug\CodeAccessBased.Form1.resources
+c:\users\amjawala_am\documents\visual studio 2015\Projects\CodeAccessBased\CodeAccessBased\obj\Debug\CodeAccessBased.Properties.Resources.resources
+c:\users\amjawala_am\documents\visual studio 2015\Projects\CodeAccessBased\CodeAccessBased\obj\Debug\CodeAccessBased.csproj.GenerateResource.Cache
+c:\users\amjawala_am\documents\visual studio 2015\Projects\CodeAccessBased\CodeAccessBased\obj\Debug\CodeAccessBased.exe
+c:\users\amjawala_am\documents\visual studio 2015\Projects\CodeAccessBased\CodeAccessBased\obj\Debug\CodeAccessBased.pdb

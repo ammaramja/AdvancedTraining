@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstLibrary", "CodeFirstLibrary\CodeFirstLibrary.csproj", "{1F59CBD2-F4D0-4C9C-9098-FA23AF970277}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstConsole", "..\CodeFirstConsole\CodeFirstConsole\CodeFirstConsole.csproj", "{F26BFF8A-4B7F-4668-9749-5DBA1CF0A787}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F59CBD2-F4D0-4C9C-9098-FA23AF970277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F59CBD2-F4D0-4C9C-9098-FA23AF970277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F59CBD2-F4D0-4C9C-9098-FA23AF970277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F59CBD2-F4D0-4C9C-9098-FA23AF970277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F26BFF8A-4B7F-4668-9749-5DBA1CF0A787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F26BFF8A-4B7F-4668-9749-5DBA1CF0A787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F26BFF8A-4B7F-4668-9749-5DBA1CF0A787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F26BFF8A-4B7F-4668-9749-5DBA1CF0A787}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
